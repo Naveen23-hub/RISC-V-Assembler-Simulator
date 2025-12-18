@@ -59,7 +59,7 @@ Result: A file named op.txt will be automatically generated containing the binar
 ```
 * **Result:** A file named op.txt will be automatically generated containing the binary code.
 
-###Step 3: Run Simulator
+### Step 3: Run Simulator
 Run the simulator to execute the binary code from op.txt.
 ```bash
 python3 src/simulator.py
